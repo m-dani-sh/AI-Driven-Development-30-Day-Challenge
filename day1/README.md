@@ -1,4 +1,4 @@
-# 🚀 AI-Native Turning Point — README
+# 🚀 AI-Native Turning Point
 
 ## 🎯 Goal
 Understand AI-Driven Development (AIDD) and how the October 2025 AI Turning Point reshaped the role of developers.
@@ -33,9 +33,6 @@ Write briefly:
 - How do you see the future of Human–AI Collaboration in software development?
 
 Write naturally — imagine explaining it to your future self.
-
----
-
 
 ---
 
