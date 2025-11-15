@@ -27,9 +27,6 @@ Understand AI-Driven Development (AIDD) and how the October 2025 AI Turning Poin
 
 ---
 
-
----
-
 ## ✍️ Reflection Activity
 Write briefly:
 - What does AI-Driven Development mean to you?  
